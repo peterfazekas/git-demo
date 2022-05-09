@@ -1,2 +1,2 @@
-anoter feature
+Anoter Nice Feature
 This should be the new content
